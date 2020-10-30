@@ -16,7 +16,7 @@ O LaunchBase é um treinamento no formato de bootcamp online. O curso é focado 
 * JavaScript
 * Node.js
 * Nunjucks
-* SQL/PostgreeSQL/SQLite
+* PostgreeSQL
 * Etc..
 
 ### :file_folder: **Repositórios**
